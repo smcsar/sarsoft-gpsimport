@@ -1,0 +1,23 @@
+{
+  "name": "sarsoft-gpsimport",
+  "version": "0.0.0",
+  "description": "Client-side utility for importing files from GPS units for use with SARTopo",
+  "main": "index.js",
+  "dependencies": {
+    "gpx-parse": "^0.10.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smcsar/sarsoft-gpsimport.git"
+  },
+  "author": "Andrew Nguyen",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/smcsar/sarsoft-gpsimport/issues"
+  },
+  "homepage": "https://github.com/smcsar/sarsoft-gpsimport#readme"
+}
